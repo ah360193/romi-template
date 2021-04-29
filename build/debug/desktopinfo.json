@@ -1,0 +1,16 @@
+[
+  {
+    "name": "romi-template (in project romi-template)",
+    "file": "C:\\Users\\vudog\\Documents\\Romi robot\\romi-template\\build\\libs\\romi-template.jar",
+    "extensions": [
+      "C:\\Users\\vudog\\Documents\\Romi robot\\romi-template\\build\\tmp\\expandedArchives\\halsim_gui-2021.2.1-windowsx86-64.zip_d99e9955ea409a7181a100ca5ccfa1fc\\windows\\x86-64\\shared\\halsim_gui.dll",
+      "C:\\Users\\vudog\\Documents\\Romi robot\\romi-template\\build\\tmp\\expandedArchives\\halsim_ds_socket-2021.2.1-windowsx86-64.zip_298d0267aec4b74c1e06d46e7058a467\\windows\\x86-64\\shared\\halsim_ds_socket.dll",
+      "C:\\Users\\vudog\\Documents\\Romi robot\\romi-template\\build\\tmp\\expandedArchives\\halsim_ws_client-2021.2.1-windowsx86-64.zip_9fb63aacb4fe0b04788603bb7c23e701\\windows\\x86-64\\shared\\halsim_ws_client.dll"
+    ],
+    "env": {
+      "HALSIMWS_HOST": "10.0.0.2"
+    },
+    "librarydir": "C:\\Users\\vudog\\Documents\\Romi robot\\romi-template\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
