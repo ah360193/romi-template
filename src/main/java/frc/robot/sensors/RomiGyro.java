@@ -105,6 +105,5 @@ public class RomiGyro {
 }
 
 
-Message romirobot2021
 
 
